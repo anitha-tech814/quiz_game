@@ -9,9 +9,8 @@ This is a simple quiz game built using Python.
 
 ## Tech Used
 - Python
-
-## 📸 Output Screenshot
-![Output](output.png)
+## output
+[output!] (quiz output.png)
 
 ## Author
 Anitha
