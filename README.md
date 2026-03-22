@@ -10,7 +10,7 @@ This is a simple quiz game built using Python.
 ## Tech Used
 - Python
 ## output
-[output!] (quiz output.png)
+[output!] (quiz output)
 
 ## Author
 Anitha
